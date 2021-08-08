@@ -1,0 +1,2 @@
+# whitelist
+TexeraUserbot Whitelist
